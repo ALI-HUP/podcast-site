@@ -1,0 +1,62 @@
+body {
+    background-image: url(./Gear-Podcast-Hearing-Loss-1279654034.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.p-welcome {
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    text-align: center;
+}
+
+.p2-welcome {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    text-align: center;
+}
+
+
+
+.pod1 {
+    margin: auto;
+    width: 410px;
+    height: 300px;
+    margin-bottom: 50px;
+}
+.b-pod1 {
+    background-image: url(./7344e11f91bffd89f88e91897836eb47.jpg);
+    background-size: cover;
+    width: 410px;
+    height: 300px;
+    color: rgb(0, 255, 255);
+    font-size: 45px;
+    padding-bottom: 310px;
+}
+.pod1 button:hover{
+    filter: grayscale(40%);
+    opacity: 95%;
+    margin-top: -10px;
+}
+
+.pod2 {
+    margin: auto;
+    width: 410px;
+    height: 300px;
+    margin-bottom: 50px;
+}
+.b-pod2 {
+    background-image: url(./7344e11f91bffd89f88e91897836eb47.jpg);
+    background-size: cover;
+    width: 410px;
+    height: 300px;
+    color: rgb(0, 255, 255);
+    font-size: 45px;
+    padding-bottom: 310px;
+}
+.pod2 button:hover{
+    filter: grayscale(40%);
+    opacity: 95%;
+    margin-top: -10px;
+}

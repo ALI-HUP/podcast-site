@@ -1,0 +1,26 @@
+body {
+    background-image: url(./Gear-Podcast-Hearing-Loss-1279654034.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: auto;
+}
+
+.main-div {
+    text-align: center;
+}
+
+p {
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    background-color: rgb(0, 68, 255);
+}
+
+.aud {
+    margin-top: 100px;
+    width: 50%;
+}
+.aud::-webkit-media-controls-panel {
+    background-color: #d4fbf9;
+}
